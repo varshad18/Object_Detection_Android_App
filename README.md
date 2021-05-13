@@ -6,6 +6,6 @@ This application can detect objects in two ways:
   
 Image from Gallery           | Real Time Detection
 :-------------------------:|:-------------------------:
-![Gallery](Screenshots/gallery.jpg) |   ![Real Time](Screenshots/realtime.jpg)   
+![Gallery ](Screenshots/gallery.jpg) |   ![Real Time](Screenshots/realtime.jpg)   
 
 
